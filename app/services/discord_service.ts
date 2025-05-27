@@ -83,7 +83,6 @@ class DiscordService {
     try {
       const allowedChannelIds = [
         '1232278750901702727', // ganti dengan ID channel Discord kamu
-        '1375435540861554718',
         // bisa tambah lagi
       ];
 
