@@ -11,7 +11,7 @@ class TelegramService {
     try {
       await axios.post(url, {
         chat_id: telegramChatId,
-        message_thread_id: 1331,
+        message_thread_id: 1582,
         text: message,
       })
       console.log('Berhasil kirim ke Telegram')
